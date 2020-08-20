@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+    body{
+    font-family: 'Lato', sans-serif;   
+}
+forms h3{
+    margin-left: 5px;
+}
+.card  card-body span{
+    padding-right: 0px;
+    border-right: 0rem;
+}
+.row .row1{
+    text-align: center;
+    margin-left: 45%
+}
+.row1 .t1{
+    
+    padding: 2px;
+text-align: center;
+margin-left: 45%;
+}
+.row1 .t2{
+    padding: 2px;
+}
